@@ -140,9 +140,6 @@ pythreejs==2.4.2
 pytz==2023.3
 pyvo==1.4.1
 PyWavelets==1.4.1
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==24.0.1
 qtconsole==5.4.3
